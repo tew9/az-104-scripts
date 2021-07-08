@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://raw.githubusercontent.com/tew9/az-104-scripts/master/install_web.sh"],
+  "commandToExecute": "./install_web.sh"
+}
