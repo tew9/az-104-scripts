@@ -1,0 +1,7 @@
+//This script will be executed if we want to install a server right when the
+//server is being created. 
+//cloud config.
+
+package_upgrade:true
+packages: 
+  - nginx
